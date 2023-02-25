@@ -44,11 +44,6 @@ def main():
 
     print(counter)
 
-
-
-
-
-
     # print(A)
     # print(B)
     # print(C)
